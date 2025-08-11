@@ -1,0 +1,7 @@
+{
+  "name": "muser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
